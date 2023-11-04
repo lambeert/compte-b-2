@@ -6,7 +6,7 @@ document.getElementById('btn-submit').addEventListener('click', function(){
     //step-3: get password value
     const password = document.getElementById('password');
     const passwordValue = password.value;
-   if(emailValue ==='lambertrafael4@gmail.com' && passwordValue === '10122019')
+   if(emailValue ==='marielambert@gmail.com' && passwordValue === '10122019')
    {
     window.location.href='bank.html';
    }
